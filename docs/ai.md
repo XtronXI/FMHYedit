@@ -92,6 +92,7 @@
 * [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Github](https://github.com/nomic-ai/gpt4all) / [Discord](https://discord.com/invite/mGZE39AS3e)
 * [LlamaFile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Generative AI Guides
+* [HammerAI](https://www.hammerai.com/desktop) - Self-Hosted UI which wraps Ollama in an easy-to-use character chat interface
 
 ***
 
